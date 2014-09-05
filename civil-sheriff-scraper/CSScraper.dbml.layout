@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CSScraper">
+  <DataContextMoniker Name="/CSScraperDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b46db825-1433-4c43-ad2a-b22649b1fbdf" absoluteBounds="6.125, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/CSScraperDataContext/AuctionDate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a61e6796-fef6-4981-8ec1-5c479b8477d4" absoluteBounds="6.14, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d2305b99-13b2-42d4-a196-822761ced5ce" absoluteBounds="3.25, 0.75, 2, 5.2323225911458326">
+      <DataClassMoniker Name="/CSScraperDataContext/Auction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dac509ad-d638-4766-b08b-941e8d4c1258" absoluteBounds="3.265, 1.21, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
